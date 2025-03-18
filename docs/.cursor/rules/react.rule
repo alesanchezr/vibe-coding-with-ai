@@ -1,0 +1,2 @@
+# Glob pattern: **/*.tsx, **/*.jsx
+Use React hooks instead of class components. Follow a functional programming style. Optimize for performance with useMemo/useCallback where applicable.

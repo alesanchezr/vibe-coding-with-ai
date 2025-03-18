@@ -1,0 +1,3 @@
+# Give the AI a high-level overview of your project to ensure it understands the scope and tech stack.
+
+This is a [language/framework] project (e.g., React with TypeScript). Follow [style guide, e.g., Airbnb] conventions. Use functional components, modern ES6+ syntax, and avoid deprecated methods.

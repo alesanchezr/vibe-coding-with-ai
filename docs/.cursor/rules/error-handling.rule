@@ -1,0 +1,2 @@
+# Why? Reduces manual cleanup and improves code reliability.
+Always include error handling (try/catch or null checks) in generated code. Suggest fixes for common bugs when editing existing code.

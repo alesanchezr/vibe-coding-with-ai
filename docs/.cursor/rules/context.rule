@@ -1,0 +1,2 @@
+# Helps the AI leverage your project’s unique logic and documentation.
+Refer to @docs/architecture.md for project structure and @src/utils/helpers.js for commonly used functions.

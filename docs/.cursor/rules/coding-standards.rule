@@ -1,0 +1,1 @@
+Use camelCase for variables/functions, PascalCase for components/classes. Prefer const over let. Avoid unnecessary abstractions. Handle edge cases with clear error messages.

@@ -1,0 +1,2 @@
+# Glob pattern: **/*.sql
+Format SQL queries with uppercase keywords (SELECT, FROM) and lowercase table/column names. Follow [specific style, e.g., Supabase conventions].

@@ -1,0 +1,24 @@
+---
+description: All articles must have at least 3 frontmatter keys
+globs: *.md
+---
+- Begin every lesson with a YAML frontmatter block enclosed in --- lines.
+- Include these required fields:
+  - title: A concise, descriptive title (e.g., "Debugging HTML Code").
+  - tags: A list of relevant keywords as a YAML array (e.g., - debugging, - web development, - html/css).
+  - description: A short, punchy summary (1-2 sentences) that hooks the reader and previews the content (e.g., "Master HTML debugging with our essential guide! Learn to prevent errors and fix common mistakes efficiently.").
+- Keep the description casual and enticing, avoiding dry or overly technical phrasing.
+- Example:
+
+```yaml
+---  
+title: Debugging HTML Code  
+tags:  
+  - debugging  
+  - web development  
+  - html/css  
+description: >-  
+  Master HTML debugging with our essential guide! Learn to prevent errors and  
+  fix common mistakes efficiently. Discover tips to save time now!  
+---
+```

@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "seo-cluster-tools"
+version = "0.1.0"
+description = "Tools for managing SEO clusters and generating rules"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+python-dotenv = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.3.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
+
+[tool.poetry.scripts]
+download-clusters = "scripts.download_clusters:main"
+create-cluster-rule = "scripts.create_cluster_rule:create_seo_rule"

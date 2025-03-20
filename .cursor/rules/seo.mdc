@@ -3,7 +3,7 @@ description: This rule helps ensure that new articles link to appropriate landin
 globs: *.md
 ---
 
-When writing a new article, consider linking to these relevant landing pages:
+When writing a new article, consider linking to these relevant landing pages, but don't force the link:
 
 - **Instalar NVM** [español]: [https://4geeks.com/es/how-to/como-instalar-nvm-en-windows](mdc:https:/4geeks.com/es/how-to/como-instalar-nvm-en-windows)
 - **Regresion Lineal** [español]: [https://4geeks.com/es/technology/regresion-lineal](mdc:https:/4geeks.com/es/technology/regresion-lineal)

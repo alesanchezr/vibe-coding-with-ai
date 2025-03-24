@@ -1,5 +1,5 @@
 ---
-title: Prepárate para Vibrar: Tu Viaje al Coding Potenciado por IA Comienza Aquí
+title: "Prepárate para Vibrar: Tu Viaje al Coding Potenciado por IA Comienza Aquí"
 tags:
   - inteligencia artificial
   - desarrollo impulsado por IA

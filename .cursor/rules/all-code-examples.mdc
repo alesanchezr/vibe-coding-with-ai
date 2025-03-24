@@ -1,8 +1,9 @@
 ---
 description: How to approach coding blogs in the lessons
 globs: *.md
+alwaysApply: false
 ---
-- Always try to include concrete code examples per key idea, formatted in code blocks:
+- If specific code examples are going to be included, use formatted code blocks like this:
 
 ```python
 print("Hello, world!")

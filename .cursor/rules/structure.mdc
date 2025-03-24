@@ -1,8 +1,0 @@
----
-description: Markdown structure for better SEO and clean writing
-globs: *.md
----
-- Use ## (H2) headings for main sections like “Introduction,” “Tools You’ll Need,” or “Common Pitfalls.”
-- Use ### (H3) headings for subsections under the main ones.
-- Follow a clear flow: begin with an overview, dive into details (prevention, tools, examples), and wrap up with a summary or next steps.
-- Keep each section short and focused—don’t let it ramble.

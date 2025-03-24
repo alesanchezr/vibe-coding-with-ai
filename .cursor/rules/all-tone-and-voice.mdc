@@ -1,6 +1,7 @@
 ---
 description: Set the tone and voice for writting articles
-globs: *.md
+globs: content/lessons/*.md
+alwaysApply: false
 ---
 - Use contractions (e.g., “you’ve” instead of “you have”) and informal phrasing where it fits.
 - Sprinkle in light humor, like relatable quips or playful asides (e.g., “We’ve all been there, staring at a bug like it’s mocking us”).

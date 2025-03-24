@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 def download_clusters():
     # Load environment variables from .env file
-    load_dotenv()
+    load_dotenv(override=True)
     
     # Get required environment variables
     bc_api_url = os.getenv("BC_API_URL")

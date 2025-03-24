@@ -1,6 +1,7 @@
 ---
 description: Structure for project markdown files
 globs: content/projects/*.md
+alwaysApply: false
 ---
 ## Project File Structure
 
@@ -25,6 +26,10 @@ Every project markdown file should follow this structure:
    - Include a heading `## Skills`
    - List specific skills students will gain from completing the project
    - Format as a bullet list for clarity
+
+5. **Share this project** (Required)
+   - All of 4Geek's projects need to include a secion `## Share this project after completion`
+   - In this section we will share examples of possible viral posts you can make when completing the project.
 
 ## Example
 

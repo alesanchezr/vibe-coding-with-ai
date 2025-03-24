@@ -1,5 +1,5 @@
 ---
-title: Get Ready to Vibe: Your Journey into AI-Powered Coding Starts Here
+title: "Get Ready to Vibe: Your Journey into AI-Powered Coding Starts Here"
 tags:
   - artificial intelligence
   - ai-driven-development

@@ -5,10 +5,11 @@ tags:
   - ai-driven-development
   - AI
   - vibe coding
-description: >-
-  Discover the revolutionary Vibe Coding with AI approach that's changing how we build software! Learn from an industry veteran with 25+ years of experience how to leverage AI to code faster, better, and with more creativity.
 cluster: Full Stack Developer
 seo_keyword: Vibe Coding with AI
+description: >-
+  Discover the revolutionary Vibe Coding with AI approach that's changing how we build software! Learn from an industry veteran with 25+ years of experience how to leverage AI to code faster, better, and with more creativity.
+
 ---
 
 

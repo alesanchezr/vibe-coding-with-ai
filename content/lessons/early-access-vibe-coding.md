@@ -15,6 +15,8 @@ description: >-
 
 Welcome to *Vibe Coding with AI*—the course that’s about to transform how you build software! Whether you’re a seasoned developer or just starting out as a junior dev, this journey will show you how to team up with AI to code faster, smarter, and with a creative edge that’s rewriting the tech industry. I’m Alejandro Sanchez, a 25-year coding veteran who’s launched hundreds of products, trained thousands of devs, and now codes 90% with AI—and I’m here to guide you every step of the way.
 
+![vibe coding](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/vibe-coding.jpg?raw=true)
+
 This is just the beginning. The full course—packed with hands-on workshops, real-world projects, and game-changing skills—is coming soon. For now, dive into what’s ahead, get excited, and stay in the loop as we roll out the revolution!
 
 ## What You’ll Discover in This Module

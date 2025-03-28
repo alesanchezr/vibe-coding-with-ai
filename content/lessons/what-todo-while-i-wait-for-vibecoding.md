@@ -1,12 +1,12 @@
 ---
 title: "Level Up While You Wait: Prepare for Vibe Coding with AI"
 tags:
+  - generative-ai
   - artificial-inteligence
   - vibe-coding
   - javascript
   - html-css
   - front-end
-  - generative-ai
 description: >-
   Ready for Vibe Coding but it's not quite here yet? Don't just wait—start building the perfect foundation! Learn exactly what skills to master now to hit the ground running when the AI revolution begins.
 cluster: "Full Stack Developer"

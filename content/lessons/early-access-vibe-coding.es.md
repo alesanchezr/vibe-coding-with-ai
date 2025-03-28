@@ -11,9 +11,9 @@ cluster: Desarrollador Full Stack
 seo_keyword: Vibe Coding con IA
 ---
 
-## Bienvenido a *Vibe Coding con IA*
-
 Bienvenido a *Vibe Coding con IA*—¡el curso que está a punto de transformar cómo construyes software! Ya seas un desarrollador experimentado o estés comenzando como un dev junior, este viaje te mostrará cómo colaborar con la IA para programar más rápido, de manera más inteligente y con un toque creativo que está reescribiendo la industria tecnológica. Soy Alejandro Sánchez, un veterano del coding con 25 años de experiencia, he lanzado cientos de productos, entrenado a miles de devs y ahora programo un 90% con IA—y estoy aquí para guiarte en cada paso del camino.
+
+![vibe coding](https://github.com/alesanchezr/vibe-coding-with-ai/blob/main/assets/vibe-coding.jpg?raw=true)
 
 Esto es solo el comienzo. El curso completo—repleto de talleres prácticos, proyectos del mundo real y habilidades que cambiarán el juego—está por llegar. Por ahora, sumérgete en lo que viene, ¡emociónate y mantente al tanto mientras desplegamos la revolución!
 

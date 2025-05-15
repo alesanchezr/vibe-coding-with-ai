@@ -4,7 +4,9 @@ description: >-
   Meet Alejandro Sanchez, software engineer and tech entrepreneur who founded 4Geeks, one of the top coding schools in the world. Discover his journey from developer to educational innovator using AI.
 ---
 
-I'm a software engineer with a diploma in Business Administration from one of the most prominent educational institutions in LATAM focused on business. I've been coding since 25 years ago and have developed major infrastructure projects like the prison management system in [Guanajuato, Mexico](https://guanajuato.gob.mx/), and the social security administration system in Venezuela. I have also actively participated in the developer community by founding one of the biggest tech events in LATAM: [The Tech Meetup](https://www.youtube.com/watch?v=z1vKJwkCUtM), with more than 20,000 attendees, in collaboration with Startup Chile, various chambers of commerce in different countries, and more.
+> Before we start, I think its important to know that you are in good hands
+
+I'm a software engineer with a BA diploma from one of the most prominent educational institutions in LATAM focused on business. I've been coding since 25 years ago and have developed major infrastructure projects like the prison management system in [Guanajuato, Mexico](https://guanajuato.gob.mx/), and the social security administration system in Venezuela. I have also actively participated in the developer community by founding one of the biggest tech events in LATAM: [The Tech Meetup](https://www.youtube.com/watch?v=z1vKJwkCUtM), with more than 20,000 attendees, in collaboration with Startup Chile, various chambers of commerce in different countries, and more.
 
 Before graduating from university, I co-founded the 4Geeks Developers Community to address the gap between open job positions for computer science roles and the actual talent output in the workforce markets around LATAM.
 

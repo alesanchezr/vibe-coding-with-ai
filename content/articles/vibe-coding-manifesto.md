@@ -1,0 +1,1 @@
+https://vibemanifesto.org/

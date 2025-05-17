@@ -45,3 +45,16 @@ Download clusters from the API:
 14. Game Development Fundamentals with Vibe Coding
 15. Design Patterns and Best Practices
 16. Preparing for a Serious Career AI Coding Career
+
+
+## Syllabus
+
+## Prework
+
+- Prepare for the course
+
+### Fundations
+
+- HTTP and Clients Server architecture
+- Web architectures: Client Server, MVC, SPA, JAMStack
+- 

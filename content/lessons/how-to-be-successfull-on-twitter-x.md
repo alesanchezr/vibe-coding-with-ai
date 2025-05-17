@@ -2,8 +2,6 @@
 
 Growing on Twitter requires consistency, strategy, and real human interaction. This guide outlines a step-by-step approach to increase your followers, engagement, and even acquire clients—without relying on gimmicks or automation tools that alienate users.
 
----
-
 ## 🚀 Step-by-Step Growth Plan
 
 ### 1. 📈 Upgrade to Premium
@@ -11,15 +9,11 @@ Growing on Twitter requires consistency, strategy, and real human interaction. T
 * **Why?** Without a Premium subscription, your comments will be buried beneath blue-badge users.
 * **Impact:** Reduced visibility on the "For You" feed = fewer impressions.
 
----
-
 ### 2. 🤝 Build Your Network Daily
 
 * **Follow** 30–50 verified accounts of your size **every day**.
 * **Engage** with their content by commenting thoughtfully.
 * **Result:** A portion will follow you back and grow your network organically.
-
----
 
 ### 3. 🧲 Strategic Engagement with Big Accounts
 
@@ -31,8 +25,6 @@ Growing on Twitter requires consistency, strategy, and real human interaction. T
   * Always **provide value** (e.g., insights, stories, humor).
   * Avoid **short, generic, or AI-generated comments**—they're often ignored or disliked.
 
----
-
 ### 4. 🎯 Comments Drive Growth
 
 * Comments are not just engagement—they’re **lead generators**.
@@ -40,8 +32,6 @@ Growing on Twitter requires consistency, strategy, and real human interaction. T
 
   * 100–200 profile visits/day
   * \$20K in client revenue from backlink-building services in one month.
-
----
 
 ## 🧪 Phase 2: Content Creation (after 1000+ followers)
 
@@ -51,15 +41,11 @@ Growing on Twitter requires consistency, strategy, and real human interaction. T
   * Weekly **educational threads** (1–2 per week).
 * **Test different formats** to see what resonates with your audience.
 
----
-
 ## 🔁 Consistency is Non-Negotiable
 
 * Comment **every single day**. If you skip a day, you'll lose momentum.
 * Use **Tweet Hunter Chrome Extension** to analyze your best-performing tweets and competitors’.
 * **Recycle** your top content every 1–2 months — people forget!
-
----
 
 ## 🌐 Exclusive for 4Geeks.com Members
 
@@ -71,8 +57,6 @@ If you're a **4Geeks.com member with an active subscription**, you can join our 
 * Build your tech presence together—we grow faster as a tribe.
 
 👉 [Join the 4Geeks Twitter Community](https://x.com/i/communities/1922475612318364120)
-
----
 
 ## 📌 Summary Checklist
 

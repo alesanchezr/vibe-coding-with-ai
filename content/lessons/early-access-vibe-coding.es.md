@@ -47,7 +47,7 @@ Aquí tienes un adelanto de lo que está en camino:
 
 Estamos creando algo especial, y serás el primero en saber cuándo se publique cada taller. Aquí te decimos cómo mantenerte informado:
 - **Revisa Aquí**: Actualizaremos este LMS con nuevos módulos cuando estén listos.
-- **Únete a la Comunidad**: Síguenos en [inserta redes sociales, lista de correo o plataforma] para actualizaciones detrás de escena y beneficios de acceso anticipado.
+- **Únete a la Comunidad**: Unete al [WhatsApp de la comunidad](https://chat.whatsapp.com/K39ELB5TIK63r4INTBd7SG) para actualizaciones detrás de camaras y beneficios de acceso anticipado.
 - **Participa**: Comparte tus pensamientos—¿qué te emociona más construir con IA? ¡Deja un comentario abajo!
 
 ## Nota para los Estudiantes

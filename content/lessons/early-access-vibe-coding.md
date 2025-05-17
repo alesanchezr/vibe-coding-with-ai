@@ -50,7 +50,7 @@ Here’s a taste of what’s in store:
 
 We’re crafting something special, and you’ll be the first to know when each workshop drops. Here’s how to keep up:
 - **Check Back Here**: We’ll update this LMS with new modules as they’re ready.
-- **Join the Community**: Follow us on [insert social media, email list, or platform] for behind-the-scenes updates and early access perks.
+- **Join the Community**: Join the [WhatsApp community](https://chat.whatsapp.com/CBppI0ulMt8Dx4Fsw9AreG) for behind-the-scenes updates and early access perks.
 - **Get Involved**: Share your thoughts—what are you most excited to build with AI? Drop a comment below!
 
 ## Note to Students

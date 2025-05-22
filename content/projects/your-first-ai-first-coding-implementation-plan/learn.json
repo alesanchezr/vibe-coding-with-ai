@@ -1,0 +1,28 @@
+{
+  "slug": "your-first-ai-first-coding-implementation-plan",
+  "title": {
+    "en": "Your First AI-First Coding Implementation Plan",
+    "es": "Tu Primer Plan de Implementación para Codificación con IA"
+  },
+  "description": {
+    "en": "Learn to create a comprehensive implementation plan to guide your AI coding partner in building any project you can imagine! This project focuses on planning, defining MVP, and effective AI communication using Markdown.",
+    "es": "¡Aprende a crear un plan de implementación completo para guiar a tu compañero de codificación IA en la construcción de cualquier proyecto que puedas imaginar! Este proyecto se enfoca en la planificación, definición de MVP y comunicación efectiva con IA usando Markdown."
+  },
+  "duration": 2,
+  "difficulty": "beginner",
+  "tags": ["ai-coding", "implementation-plan", "project-planning", "prompt-engineering", "vibe-coding"],
+  "autoPlay": false,
+  "projectType": "project",
+  "repository": "https://github.com/4GeeksAcademy/your-first-ai-first-coding-implementation-plan",
+  "preview": "https://github.com/4GeeksAcademy/your-first-ai-first-coding-implementation-plan/blob/main/preview.png?raw=true",
+  "sharing": [
+    {
+      "en": "Just planned my first AI-driven project from scratch! Ready to guide my AI partner to build something amazing. Thanks @4GeeksAcademy! #AIcoding #ProjectPlanning #MVP",
+      "es": "¡Acabo de planificar mi primer proyecto impulsado por IA desde cero! Listo/a para guiar a mi compañero IA a construir algo increíble. ¡Gracias @4GeeksAcademy! #ProgramacionIA #PlanificacionDeProyectos #MVP"
+    },
+    {
+      "en": "Leveling up my AI collaboration skills by crafting a detailed implementation plan. This is how modern development looks! #FutureOfCoding #AIassisted #4Geeks",
+      "es": "Mejorando mis habilidades de colaboración con IA creando un plan de implementación detallado. ¡Así es el desarrollo moderno! #FuturoDeLaProgramacion #AsistidoPorIA #4Geeks"
+    }
+  ]
+} 

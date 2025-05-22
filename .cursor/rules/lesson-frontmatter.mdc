@@ -12,6 +12,7 @@ alwaysApply: false
 - Add a the SEO focus keyword using the "seo_keyword" key.
 - Keep the description casual and enticing, avoiding dry or overly technical phrasing.
 - Include the seo keyworkd on the description and the title.
+- Do not add add any date into the frontmatter.
 - Example:
 
 ```yaml

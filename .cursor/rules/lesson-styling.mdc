@@ -1,0 +1,16 @@
+---
+description: Markdown structure for better SEO and clean writing
+globs: content/lessons/*.md
+alwaysApply: false
+---
+## How to make a lesson look awesome
+
+## Include Emojies
+
+Start by making sure to include emojies to give a more emotional writing and reinforce specific sections of the content with emotions, for example: "I'm excited 🤩"
+
+## Include Callouts
+
+If you are including important notes or warnings use the grather than symbol in a separate line like this:
+
+> ⚠️ Warning: Make sure to blah bla blah

@@ -1,0 +1,27 @@
+{
+  "slug": "cursor-configuration",
+  "title": {
+    "en": "Configure Your Cursor Environment",
+    "es": "Configura Tu Entorno de Cursor"
+  },
+  "description": {
+    "en": "Learn to customize your Cursor environment for optimal AI collaboration. Fine-tune behavior, define custom rules, and leverage Model-Copilot Protocols (MCPs) to enhance your AI-assisted development workflow.",
+    "es": "Aprende a personalizar tu entorno de Cursor para una colaboración óptima con IA. Ajusta el comportamiento, define reglas personalizadas y aprovecha los Protocolos de Co-piloto de Modelo (MCPs) para mejorar tu flujo de trabajo de desarrollo asistido por IA."
+  },
+  "difficulty": "beginner",
+  "duration": 2,
+  "autoPlay": false,
+  "projectType": "project",
+  "repository": "",
+  "preview": "",
+  "sharing": [
+    {
+      "en": "Just supercharged my Cursor setup! Learned how to create custom rules and use MCPs for a smoother AI pair programming experience. #CursorAI #DevTools #AIworkflow @4GeeksAcademy",
+      "es": "¡Acabo de potenciar mi configuración de Cursor! Aprendí a crear reglas personalizadas y usar MCPs para una experiencia de programación en pareja con IA más fluida. #CursorAI #HerramientasDev #FlujoDeTrabajoIA @4GeeksAcademy"
+    },
+    {
+      "en": "My AI pair programmer is now even smarter! Completed the Cursor configuration project from @4GeeksAcademy and my workflow is transformed. #AICoding #ProductivityBoost #LearnToCode",
+      "es": "¡Mi programador en pareja IA es ahora aún más inteligente! Completé el proyecto de configuración de Cursor de @4GeeksAcademy y mi flujo de trabajo se ha transformado. #ProgramacionConIA #AumentoDeProductividad #AprendeAProgramar"
+    }
+  ]
+} 

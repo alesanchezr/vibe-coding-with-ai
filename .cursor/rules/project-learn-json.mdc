@@ -1,8 +1,10 @@
 ---
 description: Guidelines for creating learn.json files for LearnPack projects
-globs: content/projects/**/learn.json
+globs: learn.json
 alwaysApply: false
 ---
+This rules apply to all the learn.json files
+
 ## LearnPack learn.json Structure
 
 Every learn.json file should include the following essential properties:

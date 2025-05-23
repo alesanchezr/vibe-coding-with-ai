@@ -25,6 +25,11 @@ A collection of tools for managing SEO clusters and generating rules for content
 
 Download clusters from the API:
 
+
+
+
+
+
 ## Table of Contents
 
 1. The Foundations of Vibe Coding with AI

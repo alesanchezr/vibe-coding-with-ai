@@ -3,7 +3,9 @@ description: All articles must have at least 3 frontmatter keys
 globs: content/lessons/*.md
 alwaysApply: false
 ---
-- Begin every lesson with a YAML frontmatter block enclosed in --- lines.
+# This rule applies to any markdown under the lessons or articles folder.
+
+- Begin with a YAML frontmatter block enclosed in --- lines.
 - Include these required fields:
   - title: A concise, descriptive title (e.g., "Debugging HTML Code").
   - tags: A list of relevant keywords as a YAML array (e.g., - debugging, - web development, - html/css).

@@ -3,6 +3,8 @@ description: Set the tone and voice for writting articles
 globs: content/lessons/*.md
 alwaysApply: false
 ---
+This rules apply to all markdown files inside the content/lessons folder.
+
 - Use contractions (e.g., “you’ve” instead of “you have”) and informal phrasing where it fits.
 - Sprinkle in light humor, like relatable quips or playful asides (e.g., “We’ve all been there, staring at a bug like it’s mocking us”).
 - Keep the tone encouraging and supportive with phrases like “don’t sweat it” or “you’re totally capable of this.”

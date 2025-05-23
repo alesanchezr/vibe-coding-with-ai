@@ -3,7 +3,9 @@ description: Markdown structure for better SEO and clean writing
 globs: content/lessons/*.md
 alwaysApply: false
 ---
-## How to start the lesson
+This rules apply to any mardown file under the lessons or articles folders.
+
+## How to start each lesson or article
 
 Start the lesson with one or two paragraphs that grab the reader attention by stating a real life fact that shows how important are the topics the lesson will explain, for example, in a lesson about best practices when coding we can start like this: 
 

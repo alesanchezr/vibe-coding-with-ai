@@ -1,6 +1,9 @@
 ---
 description: Making the content reach and interactive
 globs: *.md
+alwaysApply: false
 ---
+This rules apply to any markdown file
+
 - Prompt readers to try things out (e.g., “Go ahead and inspect that element—see what pops up!”).
 - Link to helpful resources or guides (e.g., “Check this out for more details”).

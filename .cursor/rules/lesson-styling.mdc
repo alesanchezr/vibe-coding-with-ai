@@ -1,8 +1,10 @@
 ---
 description: Markdown structure for better SEO and clean writing
-globs: content/lessons/*.md
+globs: content/lessons/*.md,content/articles/*.md
 alwaysApply: false
 ---
+This rules apply to any markdown file under the content/lessons or content/articles folder .
+
 ## How to make a lesson look awesome
 
 ## Include Emojies

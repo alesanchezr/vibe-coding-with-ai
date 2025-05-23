@@ -1,3 +1,12 @@
+---
+title: "How to create an implementation plan to code a project with AI"
+tags: ["ai-coding", "implementation-plan", "project-planning", "prompt-engineering", "mvp", "software-development"]
+description: "Learn to craft a detailed implementation plan to effectively guide AI coding partners in developing software. This guide covers defining project scope, target audience, technologies, MVP functionalities, front-end best practices, and iterative deployment strategies for successful AI-assisted project development."
+---
+
+Creating an effective implementation plan is crucial when partnering with AI to build software projects. This guide will walk you through the essential components of a well-structured plan that communicates your vision clearly to your AI coding partner.
+
+
 ## Things to include in the implementation prompt
 
 - [ ] Wha is the target audience for your project?

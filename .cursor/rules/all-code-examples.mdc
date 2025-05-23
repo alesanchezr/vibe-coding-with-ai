@@ -3,6 +3,8 @@ description: How to approach coding blogs in the lessons
 globs: *.md
 alwaysApply: false
 ---
+This rules apply to any markdown file
+
 - If specific code examples are going to be included, use formatted code blocks like this:
 
 ```python

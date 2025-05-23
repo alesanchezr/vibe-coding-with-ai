@@ -1,16 +1,3 @@
----
-title: "Your First AI-First Coding Implementation Plan"
-description: "Learn to create a comprehensive implementation plan to guide your AI coding partner in building any project you can imagine!"
-tags: ["ai-coding", "implementation-plan", "project-planning", "prompt-engineering"]
-status: "draft"
-authors: ["Rigobot"]
-# solution: "" # No solution file needed, as the deliverable is a plan
-relevant_experience: "beginner"
-duration_in_hours: 2
-difficulty: "easy"
-technologies: ["markdown", "git"] # Using git for sharing via GitHub Gist/repo
----
-
 # Your First AI-First Coding Implementation Plan 📝
 
 ## 👋 Introduction

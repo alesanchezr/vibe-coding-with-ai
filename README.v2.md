@@ -7,13 +7,16 @@ This syllabus outlines the modules and lessons for the Vibe Coding with AI cours
 1.  **The Foundations of Vibe Coding with AI**
     *   [Introduction to Vibe Coding with AI](content/lessons/introduction-to-vibe-coding-with-ai.md)
     *   [Welcome to the AI-Driven Vibe Coding](content/lessons/welcome-to-the-ai-diven-vibe-coding.md)
-    *   [What is AI?](content/what-is-ai.md)
+    *   [What is a Vibe Coder?](content/vibe-coding-vs-software-developers.md)
     *   [Vibe Coding Manifesto](content/articles/vibe-coding-manifesto.md)
-    *   [Early Access Vibe Coding](content/lessons/early-access-vibe-coding.md) / [Español](content/lessons/early-access-vibe-coding.es.md)
+    *   [Quiz about vibe coder risponsibilities](content/articles/vibe-coding-manifesto.md)
+
 
 2.  **Vibe coding best practices**
     *   [Vibe Coding Tools](content/lessons/vibe-coding-tools.md)
     *   [What is Cursor?](content/lessons/what-is-cursor.md)
+    *   [What is Windsurf?](content/lessons/what-is-windsurf.md)
+    *   [Windsurf vs Cursor](content/lessons/windsurf-vs-cursor-comparison.md)
     *   [Writing rules for orchestrator files (Cursor Rules)](content/lessons/writing-rules-for-orchestrator-files.md)
     *   [Cursor Rules Examples](content/cursor-rules.md)
     *   [AI Memory Bank](content/lessons/ai-memory-bank.md)

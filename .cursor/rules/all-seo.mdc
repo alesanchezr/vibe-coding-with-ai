@@ -3,8 +3,9 @@ description: This rule helps ensure that new articles link to appropriate landin
 globs: *.md
 alwaysApply: false
 ---
+This rules apply to any markdown file
 
-When writing a new article, consider linking to these relevant topic clusters landing pages, but only if the topic makes sense and you can natually introduce the link, don't force it:
+When writing a new article or lesson, consider linking to these relevant topic clusters landing pages, but only if the topic makes sense and you can natually introduce the link, don't force it:
 
 - **Instalar NVM** [español]: [https://4geeks.com/es/how-to/como-instalar-nvm-en-windows](mdc:https:/4geeks.com/es/how-to/como-instalar-nvm-en-windows)
 - **Regresion Lineal** [español]: [https://4geeks.com/es/technology/regresion-lineal](mdc:https:/4geeks.com/es/technology/regresion-lineal)

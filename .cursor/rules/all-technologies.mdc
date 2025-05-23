@@ -1,8 +1,10 @@
 ---
 description: How to use technologies in frontmatter and learn.json file
-globs: content/lessons/*.md, content/projects/**/learn.json
+globs: content/lessons/*.md,content/projects/*/learn.json
 alwaysApply: false
 ---
+This rules applies to all learn.json or markdown frontmatters.
+
 # Approved Technologies Rule
 
 This rule defines the only technologies that should be used in frontmatter or learn.json files.
